@@ -18,9 +18,9 @@
 Engenheiro de Dados em formação focado na construção de pipelines escaláveis, arquitetura Data Lakehouse e modelos de risco de crédito.
 
 - 🔭 **Atualmente trabalhando com:** PySpark, Databricks, AWS S3 e Delta Lake.
-- 🎓 **Formação:** Ciência da Computação.
+- 🎓 **Formação:** Sistemas de Informação - Universidade Federal de Uberlândia (UFU).
 - 💡 **Interesses:** Data Engineering, Credit Analytics, Medallion Architecture e Distribuited Systems.
-- 📬 **Contacto:** [LinkedIn](https://linkedin.com/in/seu-perfil) | [Email](mailto:seu-email@gmail.com)
+- 📬 **Contacto:** [LinkedIn](www.linkedin.com/in/lucas-philipsen-borges) | [Email](mailto:lucaspborgezz@gmail.com)
 
 ---
 
